@@ -1,0 +1,25 @@
+Food App 
+------
+
+CHEF ACCOUNT
+--------------
+1. dashboard page
+2. profile diaplay page
+3. food gallery page
+4. Order request page
+----------------------
+DASHBOARD PAGE
+-------------------------
+setUp
+{
+    * Account set up{ fullname, phone number, verify email account, profile picture, Food menu, available free time, cover photo}
+    * Payement setUp{ intergarting payment gateway- paystack or rave or Bank account number}
+}
+Overview 
+{
+    
+    * Food gallery Activity (likes and tips )
+    * number of Food gallery post
+    * Order Count(New Order, pending order, dispatched order, Total order )
+    * Total amount recieved, revenue to be recieved 
+}

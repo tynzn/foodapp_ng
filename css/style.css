@@ -1,0 +1,88 @@
+
+
+.centre{
+    text-align: center;
+    margin:auto;
+}
+.section{
+    
+    padding:5%;
+   
+    height:auto;
+    font-size:150%;
+   
+  
+}
+
+.section-header{
+    border-radius: 0.25rem;
+    color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  text-align:center;
+
+}
+.row-section{
+    background-color:rgb(231, 230, 230);
+
+}
+
+.formfx{
+    display: block;
+    text-align: left;
+  }
+.signup-form{
+    width: 70%;
+    margin:auto;
+    padding:10%;
+    border:5px, solid, black;
+    background-color:white;
+    
+
+}
+.click-chef-signup{
+    padding :20px ;
+    margin:2px;
+    background-color: #0069d9;
+    border-width:unset;
+    border-radius:  0.25rem;
+    font-size: 15px;
+    font-weight: 500;
+    color:white;
+}
+.click-chef-signup:hover{
+    background-color: white;
+    color:#0069d9;
+
+}
+
+.notice{
+    font-size:10px
+}
+
+.Customer-signup-form{
+    width: 70%;
+    margin:auto;
+    padding:10%;
+    border:5px, solid, black;
+    background-color:rgb(221, 218, 218);
+}
+
+.small-img
+{
+    width:200px;
+    height:200px;
+    background-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+    margin:10%;
+    
+
+}
+.md-img{
+
+    width:400px;
+    height:400px;
+}
